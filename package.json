@@ -1,0 +1,19 @@
+{
+  "name": "qa-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "karma:start": "karma start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^3.7.1",
+    "karma": "^6.2.0",
+    "karma-coverage": "^2.0.3",
+    "karma-jasmine": "^4.0.1",
+    "karma-phantomjs-launcher": "^1.0.4"
+  }
+}
